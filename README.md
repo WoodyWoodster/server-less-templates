@@ -1,2 +1,2 @@
-# server-less-templates
+# serverless-templates
 A repository containing multiple templates for AWS SAM, Serverless Framework and AWS CDK
